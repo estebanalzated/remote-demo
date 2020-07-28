@@ -1,4 +1,5 @@
 # remote-demo
 This is a sample repo
 
-I've made some changes in GitHub
+#Erase one line
+#Added this new line for my feature branch
